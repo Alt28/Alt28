@@ -7,7 +7,7 @@
 
 🎓 I'm a COMPUTER SCIENCE STUDENT with a passion for coding, open source, and building cool things on the web.  
 🌱 Learning: **C++, PYTHON, HTML, CSS, JAVASCRIPT**  
-📫 Reach me at: clarencelagos1234@gmail.com | [LinkedIn/Twitter/Other]  
+📫 Reach me at: clarencelagos1234@gmail.com  
 
 ---
 
@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Alt28&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alt28&layout=compact&theme=radical)
 
 ---
 
