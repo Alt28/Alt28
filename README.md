@@ -1,14 +1,13 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm CLARENCE 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
 
 ## 🚀 About Me
 
-🎓 I'm a [Your Profession/Student Status] with a passion for coding, open source, and building cool things on the web.  
-💼 Currently working on: **[Project or Job Role]**  
-🌱 Learning: **[Tech you're learning]**  
-📫 Reach me at: [Email] | [LinkedIn/Twitter/Other]  
+🎓 I'm a COMPUTER SCIENCE STUDENT with a passion for coding, open source, and building cool things on the web.  
+🌱 Learning: **C++, PYTHON, HTML, CSS, JAVASCRIPT**  
+📫 Reach me at: clarencelagos1234@gmail.com | [LinkedIn/Twitter/Other]  
 
 ---
 
