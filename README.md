@@ -6,7 +6,6 @@
   </a>
 </h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Alt28&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/Alt28?label=Followers&style=social)
 
 ## 🚀 About Me
