@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a COMPUTER SCIENCE STUDENT with a passion for coding, open source, and building cool things on the web.  
+🎓 I'm a COMPUTER SCIENCE STUDENT with a passion for coding, open source, and UI/UX Designing.  
 📫 Reach me at: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clarencelagos1234@gmail.com)
