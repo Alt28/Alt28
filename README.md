@@ -7,7 +7,7 @@
 </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Alt28?label=Followers&style=social)
 
 ## 🚀 About Me
 
