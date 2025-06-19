@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a COMPUTER SCIENCE STUDENT with a passion for coding, open source, and UI/UX Designing.  
+🎓 I'm a COMPUTER SCIENCE STUDENT with a passion for coding, making games, and UI/UX Designing.  
 
 ---
 
