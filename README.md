@@ -13,6 +13,7 @@
 
 🎓 I'm a COMPUTER SCIENCE STUDENT with a passion for coding, open source, and building cool things on the web.  
 📫 Reach me at: 
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clarencelagos1234@gmail.com)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/claresu28)
