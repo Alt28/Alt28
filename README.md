@@ -1,6 +1,6 @@
 ![Hi I'm Axi](https://img.shields.io/badge/Hi%20I'm%20Axi-red?style=for-the-badge&logo=github)
 
-  <a <h1 align="center">
+ <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Axi+....;Nice+to+meet+you!&center=true&size=30">
   </a>
